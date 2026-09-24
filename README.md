@@ -1,32 +1,11 @@
-### hey, I'm Haris 👋
+### Hi, I'm Haris 👋
 
-I build products end to end: the strategy, the code and the pixels.
+I'm building [Aksa](https://aksaspace.com) with my team. Aksa is a social action platform: your own AI agent turns any goal into daily actions and forces you to show up, you prove each one, and you build streaks with friends. Think Strava, but for any goal - an agent can coach anything, not just one sport.
 
-Right now that's **[Aksa](https://play.google.com/store/apps/details?id=com.joinaksa.mobile)**, a social app where the post is proof you actually did the thing. Set a goal, do one small action a day, prove it, and do it with friends. I'm the founder, and most of the green squares below are Aksa.
+**Product.** Founder and CEO of Aksa: I decide what we build and what we don't, and run the whole roadmap on one board. I designed Aksa's design system in Figma, from chat that feels like a real messaging app to a proof-first feed, and I ship the iOS, Android and web app in TypeScript, React Native (Expo) and Firebase, including an AI agent inside every goal. I build daily with AI coding agents (Instinct, Codex, Antigravity). Before Aksa: PM intern at Rapium (50+ enterprise modules across HR, payroll, accounting and CRM) and project manager for Rp9B of village co-op funds at KKN Tematik SDGs Center UNDIP. Gold Medal at PIMNAS 36 (PKM-K), 2023, and 2nd Place, Quran App Design, MTQMN 2025.
 
-**🧭 product**
-- founder & CEO of Aksa: 300% month-over-month user growth with a 2-person team
-- decide what we build and what we don't; run the whole roadmap on one board
-- PM intern at Rapium (50+ enterprise modules: HR, payroll, accounting, CRM)
-- consultant at Valbury, exposure to finance
+**Marketing.** Staff of Marketing at Impactional Global Organization: analyzed marketing strategy across three continents (America, Europe, Australia) and launched campaigns for offline programs in Asia and Europe. Head of Marketing at Ikatan Mahasiswa Diponegoro Magelang: expanded to 3 new platforms with 10+ creative campaigns and 200+ posts, winning best department. Digital Business Awardee at KMI Award P2MW 2023.
 
-**⚙️ technology**
-- ship Aksa's iOS, Android and web app myself: TypeScript, React Native (Expo), Firebase, an AI agent inside every goal
-- server rules, CI and over-the-air releases, so fixes reach users the same day
-- build with AI coding agents daily (Claude Code, Codex, Antigravity)
+Economics at Universitas Diponegoro. 1st Outstanding Student at FEB, out of 6,000+. Business brain, builder hands.
 
-**🎨 design**
-- Aksa's design system: chat that feels like a real messaging app, proof-first feed
-- Figma from wireframe to hi-fi
-- 2nd place, Quran App Design, MTQMN 2025
-
-**🏆 a few wins**
-- Gold Medal, PIMNAS 36 (PKM-K), 2023
-- 1st Outstanding Student, FEB Universitas Diponegoro (out of 6,000+)
-- Digital Business Awardee, KMI Award P2MW 2023, and a P2MW finalist again with Aksa in 2026
-- led Rp9B of village co-op funds as project manager, KKN Tematik SDGs Center UNDIP
-
-Economics at Universitas Diponegoro. Business brain, builder hands.
-
-**find me**
-[LinkedIn](https://www.linkedin.com/in/harisfarrasi) · [X](https://x.com/harisfarrasi) · [Threads](https://www.threads.net/@haris.farrasi) · [Substack](https://harisfarrasi.substack.com)
+[LinkedIn](https://www.linkedin.com/in/harisfarrasi) · [X](https://x.com/harisfarrasi) · [Threads](https://www.threads.net/@haris.farrasi)
